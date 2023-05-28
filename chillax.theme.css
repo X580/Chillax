@@ -98,8 +98,8 @@
 /*background image*/ /*(replace the link to use)*/
   --background-image:var(--de-suggested-bg);
 /*bg dev suggestions*/
-  --wq-suggested-bg: url('https://preview.redd.it/yyclp64msrk21.jpg?auto=webp&s=b1824b10a7506173772a8b41cec4ba015754851d');
-  --de-suggested-bg: url('https://preview.redd.it/yyclp64msrk21.jpg?auto=webp&s=b1824b10a7506173772a8b41cec4ba015754851d');
+  --wq-suggested-bg: url('https://wallpaperaccess.com/full/1845540.jpg');
+  --de-suggested-bg: url('https://wallpaperaccess.com/full/1845540.jpg');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
